@@ -1,0 +1,11 @@
+1) Firstly we need to download two jar files 1 is Javax.mail.jar 2 is activation-1.1.1.jar file
+2) Add jars in libraries in Class path.
+3) Write all code 
+4) For User Authentication we need to to generate App Password.
+	a)Go to Google account
+	b)Manage Google Account
+	c)Search for App passwords 
+	d)Next Give a name for Password
+	e)copy the created password 
+	f) paste in our program in place of mail password
+5) Run our application  
